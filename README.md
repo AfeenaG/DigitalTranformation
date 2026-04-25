@@ -19,6 +19,7 @@ Key Focus Areas:
 
 ## Final Report
 
+https://github.com/AfeenaG/DigitalTranformation/blob/main/Final%20Report.pdf
 
 ## Project Contributors
 
