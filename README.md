@@ -1,4 +1,4 @@
-# Digital Transformation Strategy – Unified Analytics Implementation
+# Digital Transformation Strategy - Unified Analytics Implementation
 
 This project presents a comprehensive digital transformation strategy for a legacy Canadian real estate development firm facing operational inefficiencies driven by fragmented data systems, manual workflows, and inconsistent reporting.
 
