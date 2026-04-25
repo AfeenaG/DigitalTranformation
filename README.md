@@ -23,11 +23,11 @@ https://github.com/AfeenaG/DigitalTranformation/blob/main/Final%20Report.pdf
 
 ## Project Contributors
 
-Afeena Gafoor: Graduate Student – **Business Analytics and Artificial Intelligence**
+- Afeena Gafoor: Graduate Student – **Business Analytics and Artificial Intelligence**
 
-Kylie Snow
+- Kylie Snow
 
-Mofoluwasho Kayode
+- Mofoluwasho Kayode
 
-Aneesa Balkarran
+- Aneesa Balkarran
 
