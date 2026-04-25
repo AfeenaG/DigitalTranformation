@@ -2,7 +2,7 @@
 
 
 
-# Project Contributors
+## Project Contributors
 
 Afeena Gafoor: Graduate Student – **Business Analytics and Artificial Intelligence**
 
